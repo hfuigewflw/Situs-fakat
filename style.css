@@ -169,10 +169,15 @@ h1 {
     z-index: 1;
     color: #4f5b66;
 }
-.img-index {
-    margin-left: 40%;
-    width: 10%;
-
+main {
+    display: flex;
+}
+.Index-content p{
+    text-align: justify;
+    width: 15%;
+}
+.Index-content img {
+    float: right;
 }
 
 
