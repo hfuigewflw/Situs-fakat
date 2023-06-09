@@ -174,10 +174,23 @@ main {
 }
 .Index-content p{
     text-align: justify;
-    width: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+
 }
 .Index-content img {
     float: right;
+    margin-left: 15%;
+    margin-right: 28%;
+    margin-top: 2%;
+
+}
+.Index-content{
+    margin-right: 30%;
+    margin-top: 5%;
+}
+.Index-content br {
+    border: 40px rgb(44, 43, 43)
 }
 
 
