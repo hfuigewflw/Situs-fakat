@@ -45,7 +45,22 @@
     margin-top: 50px;
 
 }
-.card-kanan {
-    margin-left: 200px;
+.Index-content a{
+    color: black;
 }
+.main-index {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.main-index h1 {
+    text-align: center;
+}
+.content {
+    margin-left: 400px;
+    margin-right: 400px;
 
+}
+.main-content {
+    text-align: justify;
+    margin-bottom: 10px;
+}
