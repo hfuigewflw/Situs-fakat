@@ -42,11 +42,16 @@
 }
 
 .Index-content {
-    margin-top: 50px;
-
+    margin-top: 20px;
+    margin-right: 200px;
 }
 .Index-content a{
     color: black;
+}
+.Index-content hr {
+    margin-top: 20px;
+    border: 1px solid #747576;
+    width: 450px;
 }
 .main-index {
     margin-left: 100px;
@@ -62,4 +67,25 @@
 .main-content {
     text-align: justify;
     margin-bottom: 10px;
+}
+.left-content {
+    flex: 1;
+}
+
+.right-content {
+    flex: 1;
+}
+.content-footer {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.image-wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.text-wrapper {
+    margin-left: 10px; /* Sesuaikan margin sesuai kebutuhan */
+    margin-top: 5px;
 }
