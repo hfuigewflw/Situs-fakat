@@ -89,3 +89,12 @@
     margin-left: 10px; /* Sesuaikan margin sesuai kebutuhan */
     margin-top: 5px;
 }
+aside{
+    width:25%;
+    height:330px;
+    float:right;
+    background:#FF7F50;
+    padding:10px;
+}
+.card {
+}
