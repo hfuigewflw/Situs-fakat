@@ -96,5 +96,11 @@ aside{
     background:#FF7F50;
     padding:10px;
 }
-.card {
+.footer nav {
+    list-style-type: none;
+    font-size: smaller;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
 }
